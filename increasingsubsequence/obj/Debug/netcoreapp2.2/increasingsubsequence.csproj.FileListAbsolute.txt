@@ -1,0 +1,11 @@
+/home/apurv/kattis/increasingsubsequence/obj/Debug/netcoreapp2.2/increasingsubsequence.csprojAssemblyReference.cache
+/home/apurv/kattis/increasingsubsequence/obj/Debug/netcoreapp2.2/increasingsubsequence.csproj.CoreCompileInputs.cache
+/home/apurv/kattis/increasingsubsequence/obj/Debug/netcoreapp2.2/increasingsubsequence.AssemblyInfoInputs.cache
+/home/apurv/kattis/increasingsubsequence/obj/Debug/netcoreapp2.2/increasingsubsequence.AssemblyInfo.cs
+/home/apurv/kattis/increasingsubsequence/bin/Debug/netcoreapp2.2/increasingsubsequence.deps.json
+/home/apurv/kattis/increasingsubsequence/bin/Debug/netcoreapp2.2/increasingsubsequence.runtimeconfig.json
+/home/apurv/kattis/increasingsubsequence/bin/Debug/netcoreapp2.2/increasingsubsequence.runtimeconfig.dev.json
+/home/apurv/kattis/increasingsubsequence/bin/Debug/netcoreapp2.2/increasingsubsequence.dll
+/home/apurv/kattis/increasingsubsequence/bin/Debug/netcoreapp2.2/increasingsubsequence.pdb
+/home/apurv/kattis/increasingsubsequence/obj/Debug/netcoreapp2.2/increasingsubsequence.dll
+/home/apurv/kattis/increasingsubsequence/obj/Debug/netcoreapp2.2/increasingsubsequence.pdb
