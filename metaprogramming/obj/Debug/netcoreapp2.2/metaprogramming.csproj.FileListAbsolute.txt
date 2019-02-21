@@ -1,0 +1,11 @@
+/home/apurv/kattis/metaprogramming/obj/Debug/netcoreapp2.2/metaprogramming.csprojAssemblyReference.cache
+/home/apurv/kattis/metaprogramming/obj/Debug/netcoreapp2.2/metaprogramming.csproj.CoreCompileInputs.cache
+/home/apurv/kattis/metaprogramming/obj/Debug/netcoreapp2.2/metaprogramming.AssemblyInfoInputs.cache
+/home/apurv/kattis/metaprogramming/obj/Debug/netcoreapp2.2/metaprogramming.AssemblyInfo.cs
+/home/apurv/kattis/metaprogramming/bin/Debug/netcoreapp2.2/metaprogramming.deps.json
+/home/apurv/kattis/metaprogramming/bin/Debug/netcoreapp2.2/metaprogramming.runtimeconfig.json
+/home/apurv/kattis/metaprogramming/bin/Debug/netcoreapp2.2/metaprogramming.runtimeconfig.dev.json
+/home/apurv/kattis/metaprogramming/bin/Debug/netcoreapp2.2/metaprogramming.dll
+/home/apurv/kattis/metaprogramming/bin/Debug/netcoreapp2.2/metaprogramming.pdb
+/home/apurv/kattis/metaprogramming/obj/Debug/netcoreapp2.2/metaprogramming.dll
+/home/apurv/kattis/metaprogramming/obj/Debug/netcoreapp2.2/metaprogramming.pdb
