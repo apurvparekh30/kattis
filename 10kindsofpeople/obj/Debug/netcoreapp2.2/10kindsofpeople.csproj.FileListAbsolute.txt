@@ -1,0 +1,11 @@
+/home/apurv/kattis/10kindsofpeople/obj/Debug/netcoreapp2.2/10kindsofpeople.csprojAssemblyReference.cache
+/home/apurv/kattis/10kindsofpeople/obj/Debug/netcoreapp2.2/10kindsofpeople.csproj.CoreCompileInputs.cache
+/home/apurv/kattis/10kindsofpeople/obj/Debug/netcoreapp2.2/10kindsofpeople.AssemblyInfoInputs.cache
+/home/apurv/kattis/10kindsofpeople/obj/Debug/netcoreapp2.2/10kindsofpeople.AssemblyInfo.cs
+/home/apurv/kattis/10kindsofpeople/bin/Debug/netcoreapp2.2/10kindsofpeople.deps.json
+/home/apurv/kattis/10kindsofpeople/bin/Debug/netcoreapp2.2/10kindsofpeople.runtimeconfig.json
+/home/apurv/kattis/10kindsofpeople/bin/Debug/netcoreapp2.2/10kindsofpeople.runtimeconfig.dev.json
+/home/apurv/kattis/10kindsofpeople/bin/Debug/netcoreapp2.2/10kindsofpeople.dll
+/home/apurv/kattis/10kindsofpeople/bin/Debug/netcoreapp2.2/10kindsofpeople.pdb
+/home/apurv/kattis/10kindsofpeople/obj/Debug/netcoreapp2.2/10kindsofpeople.dll
+/home/apurv/kattis/10kindsofpeople/obj/Debug/netcoreapp2.2/10kindsofpeople.pdb

@@ -1,0 +1,11 @@
+/home/apurv/kattis/busyschedule/obj/Debug/netcoreapp2.2/busyschedule.csprojAssemblyReference.cache
+/home/apurv/kattis/busyschedule/obj/Debug/netcoreapp2.2/busyschedule.csproj.CoreCompileInputs.cache
+/home/apurv/kattis/busyschedule/obj/Debug/netcoreapp2.2/busyschedule.AssemblyInfoInputs.cache
+/home/apurv/kattis/busyschedule/obj/Debug/netcoreapp2.2/busyschedule.AssemblyInfo.cs
+/home/apurv/kattis/busyschedule/bin/Debug/netcoreapp2.2/busyschedule.deps.json
+/home/apurv/kattis/busyschedule/bin/Debug/netcoreapp2.2/busyschedule.runtimeconfig.json
+/home/apurv/kattis/busyschedule/bin/Debug/netcoreapp2.2/busyschedule.runtimeconfig.dev.json
+/home/apurv/kattis/busyschedule/bin/Debug/netcoreapp2.2/busyschedule.dll
+/home/apurv/kattis/busyschedule/bin/Debug/netcoreapp2.2/busyschedule.pdb
+/home/apurv/kattis/busyschedule/obj/Debug/netcoreapp2.2/busyschedule.dll
+/home/apurv/kattis/busyschedule/obj/Debug/netcoreapp2.2/busyschedule.pdb
