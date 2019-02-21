@@ -1,0 +1,11 @@
+/home/apurv/kattis/howmanydigits/bin/Debug/netcoreapp2.2/howmanydigits.deps.json
+/home/apurv/kattis/howmanydigits/bin/Debug/netcoreapp2.2/howmanydigits.runtimeconfig.json
+/home/apurv/kattis/howmanydigits/bin/Debug/netcoreapp2.2/howmanydigits.runtimeconfig.dev.json
+/home/apurv/kattis/howmanydigits/bin/Debug/netcoreapp2.2/howmanydigits.dll
+/home/apurv/kattis/howmanydigits/bin/Debug/netcoreapp2.2/howmanydigits.pdb
+/home/apurv/kattis/howmanydigits/obj/Debug/netcoreapp2.2/howmanydigits.csprojAssemblyReference.cache
+/home/apurv/kattis/howmanydigits/obj/Debug/netcoreapp2.2/howmanydigits.csproj.CoreCompileInputs.cache
+/home/apurv/kattis/howmanydigits/obj/Debug/netcoreapp2.2/howmanydigits.AssemblyInfoInputs.cache
+/home/apurv/kattis/howmanydigits/obj/Debug/netcoreapp2.2/howmanydigits.AssemblyInfo.cs
+/home/apurv/kattis/howmanydigits/obj/Debug/netcoreapp2.2/howmanydigits.dll
+/home/apurv/kattis/howmanydigits/obj/Debug/netcoreapp2.2/howmanydigits.pdb
