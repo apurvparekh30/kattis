@@ -1,0 +1,11 @@
+/home/apurv/kattis/permutationencryption/obj/Debug/netcoreapp2.2/permutationencryption.csprojAssemblyReference.cache
+/home/apurv/kattis/permutationencryption/obj/Debug/netcoreapp2.2/permutationencryption.csproj.CoreCompileInputs.cache
+/home/apurv/kattis/permutationencryption/obj/Debug/netcoreapp2.2/permutationencryption.AssemblyInfoInputs.cache
+/home/apurv/kattis/permutationencryption/obj/Debug/netcoreapp2.2/permutationencryption.AssemblyInfo.cs
+/home/apurv/kattis/permutationencryption/bin/Debug/netcoreapp2.2/permutationencryption.deps.json
+/home/apurv/kattis/permutationencryption/bin/Debug/netcoreapp2.2/permutationencryption.runtimeconfig.json
+/home/apurv/kattis/permutationencryption/bin/Debug/netcoreapp2.2/permutationencryption.runtimeconfig.dev.json
+/home/apurv/kattis/permutationencryption/bin/Debug/netcoreapp2.2/permutationencryption.dll
+/home/apurv/kattis/permutationencryption/bin/Debug/netcoreapp2.2/permutationencryption.pdb
+/home/apurv/kattis/permutationencryption/obj/Debug/netcoreapp2.2/permutationencryption.dll
+/home/apurv/kattis/permutationencryption/obj/Debug/netcoreapp2.2/permutationencryption.pdb
