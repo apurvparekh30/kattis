@@ -1,0 +1,11 @@
+/home/apurv/kattis/imagedecoding/obj/Debug/netcoreapp2.2/imagedecoding.csprojAssemblyReference.cache
+/home/apurv/kattis/imagedecoding/obj/Debug/netcoreapp2.2/imagedecoding.csproj.CoreCompileInputs.cache
+/home/apurv/kattis/imagedecoding/obj/Debug/netcoreapp2.2/imagedecoding.AssemblyInfoInputs.cache
+/home/apurv/kattis/imagedecoding/obj/Debug/netcoreapp2.2/imagedecoding.AssemblyInfo.cs
+/home/apurv/kattis/imagedecoding/bin/Debug/netcoreapp2.2/imagedecoding.deps.json
+/home/apurv/kattis/imagedecoding/bin/Debug/netcoreapp2.2/imagedecoding.runtimeconfig.json
+/home/apurv/kattis/imagedecoding/bin/Debug/netcoreapp2.2/imagedecoding.runtimeconfig.dev.json
+/home/apurv/kattis/imagedecoding/bin/Debug/netcoreapp2.2/imagedecoding.dll
+/home/apurv/kattis/imagedecoding/bin/Debug/netcoreapp2.2/imagedecoding.pdb
+/home/apurv/kattis/imagedecoding/obj/Debug/netcoreapp2.2/imagedecoding.dll
+/home/apurv/kattis/imagedecoding/obj/Debug/netcoreapp2.2/imagedecoding.pdb
