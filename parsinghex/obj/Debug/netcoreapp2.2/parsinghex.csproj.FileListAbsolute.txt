@@ -1,0 +1,11 @@
+/home/apurv/kattis/parsinghex/obj/Debug/netcoreapp2.2/parsinghex.csprojAssemblyReference.cache
+/home/apurv/kattis/parsinghex/obj/Debug/netcoreapp2.2/parsinghex.csproj.CoreCompileInputs.cache
+/home/apurv/kattis/parsinghex/obj/Debug/netcoreapp2.2/parsinghex.AssemblyInfoInputs.cache
+/home/apurv/kattis/parsinghex/obj/Debug/netcoreapp2.2/parsinghex.AssemblyInfo.cs
+/home/apurv/kattis/parsinghex/bin/Debug/netcoreapp2.2/parsinghex.deps.json
+/home/apurv/kattis/parsinghex/bin/Debug/netcoreapp2.2/parsinghex.runtimeconfig.json
+/home/apurv/kattis/parsinghex/bin/Debug/netcoreapp2.2/parsinghex.runtimeconfig.dev.json
+/home/apurv/kattis/parsinghex/bin/Debug/netcoreapp2.2/parsinghex.dll
+/home/apurv/kattis/parsinghex/bin/Debug/netcoreapp2.2/parsinghex.pdb
+/home/apurv/kattis/parsinghex/obj/Debug/netcoreapp2.2/parsinghex.dll
+/home/apurv/kattis/parsinghex/obj/Debug/netcoreapp2.2/parsinghex.pdb
