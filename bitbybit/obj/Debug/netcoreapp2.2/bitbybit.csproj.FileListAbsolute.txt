@@ -1,0 +1,11 @@
+/home/apurv/kattis/bitbybit/bin/Debug/netcoreapp2.2/bitbybit.deps.json
+/home/apurv/kattis/bitbybit/bin/Debug/netcoreapp2.2/bitbybit.runtimeconfig.json
+/home/apurv/kattis/bitbybit/bin/Debug/netcoreapp2.2/bitbybit.runtimeconfig.dev.json
+/home/apurv/kattis/bitbybit/bin/Debug/netcoreapp2.2/bitbybit.dll
+/home/apurv/kattis/bitbybit/bin/Debug/netcoreapp2.2/bitbybit.pdb
+/home/apurv/kattis/bitbybit/obj/Debug/netcoreapp2.2/bitbybit.csprojAssemblyReference.cache
+/home/apurv/kattis/bitbybit/obj/Debug/netcoreapp2.2/bitbybit.csproj.CoreCompileInputs.cache
+/home/apurv/kattis/bitbybit/obj/Debug/netcoreapp2.2/bitbybit.AssemblyInfoInputs.cache
+/home/apurv/kattis/bitbybit/obj/Debug/netcoreapp2.2/bitbybit.AssemblyInfo.cs
+/home/apurv/kattis/bitbybit/obj/Debug/netcoreapp2.2/bitbybit.dll
+/home/apurv/kattis/bitbybit/obj/Debug/netcoreapp2.2/bitbybit.pdb
