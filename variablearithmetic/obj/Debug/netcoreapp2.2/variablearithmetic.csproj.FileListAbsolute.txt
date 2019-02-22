@@ -1,0 +1,11 @@
+/home/apurv/kattis/variablearithmetic/obj/Debug/netcoreapp2.2/variablearithmetic.csprojAssemblyReference.cache
+/home/apurv/kattis/variablearithmetic/obj/Debug/netcoreapp2.2/variablearithmetic.csproj.CoreCompileInputs.cache
+/home/apurv/kattis/variablearithmetic/obj/Debug/netcoreapp2.2/variablearithmetic.AssemblyInfoInputs.cache
+/home/apurv/kattis/variablearithmetic/obj/Debug/netcoreapp2.2/variablearithmetic.AssemblyInfo.cs
+/home/apurv/kattis/variablearithmetic/bin/Debug/netcoreapp2.2/variablearithmetic.deps.json
+/home/apurv/kattis/variablearithmetic/bin/Debug/netcoreapp2.2/variablearithmetic.runtimeconfig.json
+/home/apurv/kattis/variablearithmetic/bin/Debug/netcoreapp2.2/variablearithmetic.runtimeconfig.dev.json
+/home/apurv/kattis/variablearithmetic/bin/Debug/netcoreapp2.2/variablearithmetic.dll
+/home/apurv/kattis/variablearithmetic/bin/Debug/netcoreapp2.2/variablearithmetic.pdb
+/home/apurv/kattis/variablearithmetic/obj/Debug/netcoreapp2.2/variablearithmetic.dll
+/home/apurv/kattis/variablearithmetic/obj/Debug/netcoreapp2.2/variablearithmetic.pdb
