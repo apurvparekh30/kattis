@@ -1,0 +1,11 @@
+/home/apurv/kattis/pathtracing/obj/Debug/netcoreapp2.2/pathtracing.csprojAssemblyReference.cache
+/home/apurv/kattis/pathtracing/obj/Debug/netcoreapp2.2/pathtracing.csproj.CoreCompileInputs.cache
+/home/apurv/kattis/pathtracing/obj/Debug/netcoreapp2.2/pathtracing.AssemblyInfoInputs.cache
+/home/apurv/kattis/pathtracing/obj/Debug/netcoreapp2.2/pathtracing.AssemblyInfo.cs
+/home/apurv/kattis/pathtracing/bin/Debug/netcoreapp2.2/pathtracing.deps.json
+/home/apurv/kattis/pathtracing/bin/Debug/netcoreapp2.2/pathtracing.runtimeconfig.json
+/home/apurv/kattis/pathtracing/bin/Debug/netcoreapp2.2/pathtracing.runtimeconfig.dev.json
+/home/apurv/kattis/pathtracing/bin/Debug/netcoreapp2.2/pathtracing.dll
+/home/apurv/kattis/pathtracing/bin/Debug/netcoreapp2.2/pathtracing.pdb
+/home/apurv/kattis/pathtracing/obj/Debug/netcoreapp2.2/pathtracing.dll
+/home/apurv/kattis/pathtracing/obj/Debug/netcoreapp2.2/pathtracing.pdb
