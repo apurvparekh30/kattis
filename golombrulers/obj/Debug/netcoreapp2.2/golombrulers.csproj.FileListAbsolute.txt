@@ -1,0 +1,11 @@
+/home/apurv/kattis/golombrulers/bin/Debug/netcoreapp2.2/golombrulers.deps.json
+/home/apurv/kattis/golombrulers/bin/Debug/netcoreapp2.2/golombrulers.runtimeconfig.json
+/home/apurv/kattis/golombrulers/bin/Debug/netcoreapp2.2/golombrulers.runtimeconfig.dev.json
+/home/apurv/kattis/golombrulers/bin/Debug/netcoreapp2.2/golombrulers.dll
+/home/apurv/kattis/golombrulers/bin/Debug/netcoreapp2.2/golombrulers.pdb
+/home/apurv/kattis/golombrulers/obj/Debug/netcoreapp2.2/golombrulers.csprojAssemblyReference.cache
+/home/apurv/kattis/golombrulers/obj/Debug/netcoreapp2.2/golombrulers.csproj.CoreCompileInputs.cache
+/home/apurv/kattis/golombrulers/obj/Debug/netcoreapp2.2/golombrulers.AssemblyInfoInputs.cache
+/home/apurv/kattis/golombrulers/obj/Debug/netcoreapp2.2/golombrulers.AssemblyInfo.cs
+/home/apurv/kattis/golombrulers/obj/Debug/netcoreapp2.2/golombrulers.dll
+/home/apurv/kattis/golombrulers/obj/Debug/netcoreapp2.2/golombrulers.pdb
