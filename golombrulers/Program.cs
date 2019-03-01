@@ -23,7 +23,6 @@ namespace golombrulers
                     if(max < number)
                         max = number;
                 }
-                list.Sort();
                 bool []arr = new bool[max+1];
                 bool ruler = true;
                 for(int i=0;i<list.Count && ruler;i++){
