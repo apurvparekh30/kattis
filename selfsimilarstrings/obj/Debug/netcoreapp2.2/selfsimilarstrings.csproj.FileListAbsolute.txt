@@ -1,0 +1,11 @@
+/home/apurv/kattis/selfsimilarstrings/obj/Debug/netcoreapp2.2/selfsimilarstrings.csprojAssemblyReference.cache
+/home/apurv/kattis/selfsimilarstrings/obj/Debug/netcoreapp2.2/selfsimilarstrings.csproj.CoreCompileInputs.cache
+/home/apurv/kattis/selfsimilarstrings/obj/Debug/netcoreapp2.2/selfsimilarstrings.AssemblyInfoInputs.cache
+/home/apurv/kattis/selfsimilarstrings/obj/Debug/netcoreapp2.2/selfsimilarstrings.AssemblyInfo.cs
+/home/apurv/kattis/selfsimilarstrings/bin/Debug/netcoreapp2.2/selfsimilarstrings.deps.json
+/home/apurv/kattis/selfsimilarstrings/bin/Debug/netcoreapp2.2/selfsimilarstrings.runtimeconfig.json
+/home/apurv/kattis/selfsimilarstrings/bin/Debug/netcoreapp2.2/selfsimilarstrings.runtimeconfig.dev.json
+/home/apurv/kattis/selfsimilarstrings/bin/Debug/netcoreapp2.2/selfsimilarstrings.dll
+/home/apurv/kattis/selfsimilarstrings/bin/Debug/netcoreapp2.2/selfsimilarstrings.pdb
+/home/apurv/kattis/selfsimilarstrings/obj/Debug/netcoreapp2.2/selfsimilarstrings.dll
+/home/apurv/kattis/selfsimilarstrings/obj/Debug/netcoreapp2.2/selfsimilarstrings.pdb
