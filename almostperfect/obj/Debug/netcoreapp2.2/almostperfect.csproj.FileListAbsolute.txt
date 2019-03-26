@@ -1,0 +1,11 @@
+/home/apurv/kattis/almostperfect/obj/Debug/netcoreapp2.2/almostperfect.csprojAssemblyReference.cache
+/home/apurv/kattis/almostperfect/obj/Debug/netcoreapp2.2/almostperfect.csproj.CoreCompileInputs.cache
+/home/apurv/kattis/almostperfect/obj/Debug/netcoreapp2.2/almostperfect.AssemblyInfoInputs.cache
+/home/apurv/kattis/almostperfect/obj/Debug/netcoreapp2.2/almostperfect.AssemblyInfo.cs
+/home/apurv/kattis/almostperfect/bin/Debug/netcoreapp2.2/almostperfect.deps.json
+/home/apurv/kattis/almostperfect/bin/Debug/netcoreapp2.2/almostperfect.runtimeconfig.json
+/home/apurv/kattis/almostperfect/bin/Debug/netcoreapp2.2/almostperfect.runtimeconfig.dev.json
+/home/apurv/kattis/almostperfect/bin/Debug/netcoreapp2.2/almostperfect.dll
+/home/apurv/kattis/almostperfect/bin/Debug/netcoreapp2.2/almostperfect.pdb
+/home/apurv/kattis/almostperfect/obj/Debug/netcoreapp2.2/almostperfect.dll
+/home/apurv/kattis/almostperfect/obj/Debug/netcoreapp2.2/almostperfect.pdb
