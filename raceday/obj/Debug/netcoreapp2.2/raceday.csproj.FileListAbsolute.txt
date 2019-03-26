@@ -1,0 +1,11 @@
+/home/apurv/kattis/raceday/obj/Debug/netcoreapp2.2/raceday.csprojAssemblyReference.cache
+/home/apurv/kattis/raceday/obj/Debug/netcoreapp2.2/raceday.csproj.CoreCompileInputs.cache
+/home/apurv/kattis/raceday/obj/Debug/netcoreapp2.2/raceday.AssemblyInfoInputs.cache
+/home/apurv/kattis/raceday/obj/Debug/netcoreapp2.2/raceday.AssemblyInfo.cs
+/home/apurv/kattis/raceday/bin/Debug/netcoreapp2.2/raceday.deps.json
+/home/apurv/kattis/raceday/bin/Debug/netcoreapp2.2/raceday.runtimeconfig.json
+/home/apurv/kattis/raceday/bin/Debug/netcoreapp2.2/raceday.runtimeconfig.dev.json
+/home/apurv/kattis/raceday/bin/Debug/netcoreapp2.2/raceday.dll
+/home/apurv/kattis/raceday/bin/Debug/netcoreapp2.2/raceday.pdb
+/home/apurv/kattis/raceday/obj/Debug/netcoreapp2.2/raceday.dll
+/home/apurv/kattis/raceday/obj/Debug/netcoreapp2.2/raceday.pdb
